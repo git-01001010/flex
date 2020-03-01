@@ -68,7 +68,7 @@ h3 {
 }
 
 p {
-	font-family: normal;
+	font-family: normal, sans-serif;
 	font-size: 19px;
 	font-size: 1.9rem;
 	text-align: center;
